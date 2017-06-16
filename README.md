@@ -7,7 +7,7 @@ RECON 2017 IDA skin & color scheme
 
 ### Color Scheme
 
-In IDA, go to `Options->Colors->Import` and select the color scheme (`RECON2017-idacolors.clr').
+In IDA, go to `Options->Colors->Import` and select the color scheme (`RECON2017-idacolors.clr`).
 
 If you don't like menus, hold <kbd>Alt</kbd> and click <kbd>o</kbd>,<kbd>c</kbd>,<kbd>i</kbd>.
 

@@ -15,4 +15,4 @@ If you don't like menus, hold <kbd>Alt</kbd> and click <kbd>o</kbd>,<kbd>c</kbd>
 
 The skin is powered by [IDASkins](https://github.com/zyantific/IDASkins) and based on its dark scheme.
 
-Follow the installtion instructions [here](https://github.com/zyantific/IDASkins).
+Follow the installtion instructions [here](https://github.com/zyantific/IDASkins), then copy the `RECON2017-skin` directory to your `skins` directory.
